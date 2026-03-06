@@ -1,7 +1,7 @@
 let mensagens = [
     `Obrigado por ser essa mulher incrível, por sempre fazer de tudo por nós.
 Só tenho que agradecer por sempre estar comigo.
-Te amo muito meu amor ❤️`
+Te amo muito meu amor ❤️.`
 ]
 
 function surpresa() {
