@@ -92,3 +92,29 @@ button:hover {
     max-height: 80%;
     border-radius: 15px;
 }
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+        width: 90%;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    p {
+        font-size: 16px;
+    }
+    button {
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+    .galeria {
+        gap: 15px;
+    }
+    .galeria img {
+        width: 140px;
+    }
+}
